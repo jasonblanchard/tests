@@ -46,9 +46,6 @@
     "webpack": "^1.12.2"
   },
   "dependencies": {
-    "jsdom": "^6.5.1",
-    "react": "^0.14.0",
-    "react-addons-test-utils": "^0.14.0",
-    "react-dom": "^0.14.0"
+    "jsdom": "^6.5.1"
   }
 }
